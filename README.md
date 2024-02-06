@@ -1,2 +1,3 @@
 # ConnectMySQL
 http通信を用いてMySQLを操作するサンプルです。Node.jsを使ってます。
+ここではUnityからログインのHttpリクエストがあった際にアカウントの参照及び登録をしています。
